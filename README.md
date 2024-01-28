@@ -1,3 +1,6 @@
+
+![_bf92026f-49d0-4406-b018-157b7dcebab7](https://github.com/Ashwanth-Circuit-surge/Django-Ashwanth/assets/157686695/d0768c04-5161-41b7-ad35-38565f607fa5)
+
 Django-Ashwanth Extended Edition:
 
 Embark on a transformative journey in web development with Django-Ashwanth, a meticulously enhanced version of the acclaimed Django framework. Designed for long-term excellence, this edition introduces a comprehensive set of technical aspects to elevate your web projects:
